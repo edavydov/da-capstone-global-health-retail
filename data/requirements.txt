@@ -2,3 +2,5 @@ pandas
 numpy
 Faker
 python-dateutil
+matplotlib
+seaborn

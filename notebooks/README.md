@@ -1,0 +1,1 @@
+This notebook demonstrates how to load the CSVs produced by data/generate_synthetic_data.py and run common analyses (cohorting, top products, country comparisons, time series).\n\nRun `python data/generate_synthetic_data.py --out_dir data/output` first to create the CSVs, then open this notebook in Jupyter.
