@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,unit_price
+P00001,Vitamins Product 1,Vitamins & Supplements,Doyle Ltd,9.08
+P00002,Diagnostics Product 2,Diagnostics,Galloway-Wyatt,3.57
+P00003,Maternal Product 3,Maternal & Baby,Garcia-James,5.46
+P00004,Vitamins Product 4,Vitamins & Supplements,"Dyer, Potter and Mack",4.82
+P00005,Vitamins Product 5,Vitamins & Supplements,"Baker, Mason and White",14.68
+P00006,Medical Product 6,Medical Supplies,"Mcclain, Miller and Henderson",5.31
+P00007,Medicines Product 7,Medicines,"Gardner, Robinson and Lawrence",11.01
+P00008,Maternal Product 8,Maternal & Baby,Williams and Sons,36.9
+P00009,Medicines Product 9,Medicines,Rodriguez-Graham,20.29
+P00010,Maternal Product 10,Maternal & Baby,"Dyer, Potter and Mack",5.2
+P00011,Medical Product 11,Medical Supplies,Williams and Sons,5.6
+P00012,Nutrition Product 12,Nutrition,"Baker, Mason and White",10.64
+P00013,Diagnostics Product 13,Diagnostics,"Rodriguez, Figueroa and Sanchez",1.94
+P00014,Hygiene Product 14,Hygiene,"Hoffman, Baker and Richards",3.71
+P00015,Personal Product 15,Personal Care,"Flowers, Martin and Kelly",10.96
+P00016,Hygiene Product 16,Hygiene,"Mcclure, Ward and Lee",6.69
+P00017,Personal Product 17,Personal Care,Blake and Sons,34.75
+P00018,Vitamins Product 18,Vitamins & Supplements,"Walter, Edwards and Rios",4.51
+P00019,Vitamins Product 19,Vitamins & Supplements,Perez Inc,3.2
+P00020,Personal Product 20,Personal Care,Harrell LLC,3.63
+P00021,Diagnostics Product 21,Diagnostics,"Mcclain, Miller and Henderson",7.47
+P00022,Nutrition Product 22,Nutrition,"Dyer, Potter and Mack",6.5
+P00023,Vitamins Product 23,Vitamins & Supplements,"Walter, Edwards and Rios",44.0
+P00024,Vitamins Product 24,Vitamins & Supplements,Rodriguez-Graham,5.37
+P00025,Diagnostics Product 25,Diagnostics,"Romero, Gonzalez and Brooks",7.72
+P00026,Personal Product 26,Personal Care,Smith-Bowen,14.99
+P00027,Maternal Product 27,Maternal & Baby,"Guzman, Hoffman and Baldwin",6.78
+P00028,Medicines Product 28,Medicines,Williams and Sons,11.52
+P00029,Diagnostics Product 29,Diagnostics,"Gardner, Robinson and Lawrence",10.13
+P00030,Maternal Product 30,Maternal & Baby,Blake and Sons,14.44
+P00031,Medical Product 31,Medical Supplies,"Flowers, Martin and Kelly",2.4
+P00032,Nutrition Product 32,Nutrition,Morales-Jones,14.1
+P00033,Hygiene Product 33,Hygiene,Morales-Jones,6.62
+P00034,Personal Product 34,Personal Care,"Mcclure, Ward and Lee",8.58
+P00035,Diagnostics Product 35,Diagnostics,"Guzman, Hoffman and Baldwin",5.42
+P00036,Hygiene Product 36,Hygiene,"Dyer, Potter and Mack",27.86
+P00037,Maternal Product 37,Maternal & Baby,Blair PLC,1.44
+P00038,Nutrition Product 38,Nutrition,"Walter, Edwards and Rios",22.63
+P00039,Diagnostics Product 39,Diagnostics,Rodriguez-Graham,4.29
+P00040,Maternal Product 40,Maternal & Baby,Gray-Mayo,25.11
+P00041,Medicines Product 41,Medicines,Williams and Sons,19.63
+P00042,Medicines Product 42,Medicines,Gray-Mayo,16.64
+P00043,Medical Product 43,Medical Supplies,"Flowers, Martin and Kelly",14.33
+P00044,Vitamins Product 44,Vitamins & Supplements,"Mcclure, Ward and Lee",45.29
+P00045,Personal Product 45,Personal Care,"Mcclure, Ward and Lee",4.59
+P00046,Nutrition Product 46,Nutrition,Wilkerson-Day,4.64
+P00047,Nutrition Product 47,Nutrition,Abbott-Munoz,4.37
+P00048,Diagnostics Product 48,Diagnostics,Garcia-James,15.49
+P00049,Maternal Product 49,Maternal & Baby,Rodriguez-Graham,2.61
+P00050,Diagnostics Product 50,Diagnostics,"Baker, Mason and White",16.59
+P00051,Medical Product 51,Medical Supplies,"Baker, Mason and White",5.87
+P00052,Medical Product 52,Medical Supplies,Morales-Jones,3.15
+P00053,Maternal Product 53,Maternal & Baby,Garcia-James,3.12
+P00054,Nutrition Product 54,Nutrition,"Gardner, Robinson and Lawrence",3.91
+P00055,Medicines Product 55,Medicines,"Henderson, Ramirez and Lewis",2.25
+P00056,Hygiene Product 56,Hygiene,Blair PLC,11.15
+P00057,Medical Product 57,Medical Supplies,Harrell LLC,14.61
+P00058,Vitamins Product 58,Vitamins & Supplements,"Walter, Edwards and Rios",15.91
+P00059,Medical Product 59,Medical Supplies,Harrell LLC,4.48
+P00060,Nutrition Product 60,Nutrition,Frazier Inc,9.45
+P00061,Diagnostics Product 61,Diagnostics,Rodriguez-Graham,7.42
+P00062,Medicines Product 62,Medicines,"Henderson, Ramirez and Lewis",12.85
+P00063,Diagnostics Product 63,Diagnostics,"Watts, Robinson and Nguyen",10.55
+P00064,Vitamins Product 64,Vitamins & Supplements,"Adams, Zuniga and Wong",7.94
+P00065,Medical Product 65,Medical Supplies,Blair PLC,1.67
+P00066,Nutrition Product 66,Nutrition,"Rodriguez, Figueroa and Sanchez",6.47
+P00067,Diagnostics Product 67,Diagnostics,"Ferrell, Rice and Maddox",8.07
+P00068,Hygiene Product 68,Hygiene,"Ferrell, Rice and Maddox",4.24
+P00069,Vitamins Product 69,Vitamins & Supplements,"Reid, Ferguson and Sanchez",5.96
+P00070,Maternal Product 70,Maternal & Baby,Abbott-Munoz,2.61
+P00071,Personal Product 71,Personal Care,Blair PLC,5.72
+P00072,Medicines Product 72,Medicines,Harrell LLC,11.08
+P00073,Personal Product 73,Personal Care,Carlson-Cruz,39.3
+P00074,Medicines Product 74,Medicines,"Henderson, Ramirez and Lewis",3.29
+P00075,Personal Product 75,Personal Care,"Reid, Ferguson and Sanchez",7.25
+P00076,Maternal Product 76,Maternal & Baby,Davis and Sons,3.42
+P00077,Maternal Product 77,Maternal & Baby,Smith-Bowen,6.86
+P00078,Vitamins Product 78,Vitamins & Supplements,"Gardner, Robinson and Lawrence",6.18
+P00079,Nutrition Product 79,Nutrition,"Guzman, Hoffman and Baldwin",14.39
+P00080,Hygiene Product 80,Hygiene,Garcia-James,16.11
+P00081,Nutrition Product 81,Nutrition,Rodriguez-Graham,8.42
+P00082,Hygiene Product 82,Hygiene,James Group,6.74
+P00083,Medical Product 83,Medical Supplies,"Mcclure, Ward and Lee",19.09
+P00084,Maternal Product 84,Maternal & Baby,"Reid, Ferguson and Sanchez",8.53
+P00085,Medical Product 85,Medical Supplies,Morales-Jones,24.86
+P00086,Nutrition Product 86,Nutrition,Frazier Inc,2.0
+P00087,Nutrition Product 87,Nutrition,"Henderson, Ramirez and Lewis",30.74
+P00088,Maternal Product 88,Maternal & Baby,Williams and Sons,4.51
+P00089,Vitamins Product 89,Vitamins & Supplements,"Watts, Robinson and Nguyen",3.1
+P00090,Medicines Product 90,Medicines,"Baker, Mason and White",7.13
+P00091,Maternal Product 91,Maternal & Baby,"Baker, Mason and White",2.91
+P00092,Maternal Product 92,Maternal & Baby,"Rodriguez, Figueroa and Sanchez",11.65
+P00093,Vitamins Product 93,Vitamins & Supplements,Davis and Sons,5.1
+P00094,Maternal Product 94,Maternal & Baby,"Guzman, Hoffman and Baldwin",9.3
+P00095,Medicines Product 95,Medicines,"Watts, Robinson and Nguyen",3.38
+P00096,Vitamins Product 96,Vitamins & Supplements,"Ferrell, Rice and Maddox",6.18
+P00097,Maternal Product 97,Maternal & Baby,"Flowers, Martin and Kelly",7.98
+P00098,Nutrition Product 98,Nutrition,"Mcclure, Ward and Lee",6.36
+P00099,Hygiene Product 99,Hygiene,Smith-Bowen,26.4
+P00100,Nutrition Product 100,Nutrition,Galloway-Wyatt,11.81
+P00101,Nutrition Product 101,Nutrition,Baker and Sons,8.7
+P00102,Maternal Product 102,Maternal & Baby,Blake and Sons,1.67
+P00103,Vitamins Product 103,Vitamins & Supplements,"Hoffman, Baker and Richards",10.0
+P00104,Personal Product 104,Personal Care,"Hoffman, Baker and Richards",19.86
+P00105,Medical Product 105,Medical Supplies,"Snyder, Campos and Callahan",4.25
+P00106,Medicines Product 106,Medicines,Blake and Sons,6.3
+P00107,Medicines Product 107,Medicines,Wilkerson-Day,0.66
+P00108,Personal Product 108,Personal Care,Blake and Sons,2.73
+P00109,Maternal Product 109,Maternal & Baby,Arnold Ltd,1.39
+P00110,Maternal Product 110,Maternal & Baby,"Dyer, Potter and Mack",8.03
+P00111,Nutrition Product 111,Nutrition,Garcia-James,6.55
+P00112,Medical Product 112,Medical Supplies,Dudley Group,6.79
+P00113,Diagnostics Product 113,Diagnostics,"Snyder, Campos and Callahan",5.21
+P00114,Maternal Product 114,Maternal & Baby,"Guzman, Hoffman and Baldwin",16.7
+P00115,Nutrition Product 115,Nutrition,Rodriguez-Graham,2.76
+P00116,Vitamins Product 116,Vitamins & Supplements,Davis and Sons,6.96
+P00117,Medicines Product 117,Medicines,"Gardner, Robinson and Lawrence",11.91
+P00118,Maternal Product 118,Maternal & Baby,Blair PLC,6.4
+P00119,Medical Product 119,Medical Supplies,Carlson-Cruz,6.87
+P00120,Nutrition Product 120,Nutrition,"Mcclure, Ward and Lee",3.82
+P00121,Medical Product 121,Medical Supplies,Davis and Sons,5.65
+P00122,Hygiene Product 122,Hygiene,"Walter, Edwards and Rios",13.13
+P00123,Medicines Product 123,Medicines,"Walter, Edwards and Rios",1.47
+P00124,Diagnostics Product 124,Diagnostics,"Snyder, Campos and Callahan",6.51
+P00125,Diagnostics Product 125,Diagnostics,"Hoffman, Baker and Richards",4.63
+P00126,Nutrition Product 126,Nutrition,Abbott-Munoz,6.98
+P00127,Maternal Product 127,Maternal & Baby,"Adams, Zuniga and Wong",30.52
+P00128,Maternal Product 128,Maternal & Baby,Davis and Sons,5.17
+P00129,Medicines Product 129,Medicines,Gray-Mayo,24.32
+P00130,Medicines Product 130,Medicines,Davis and Sons,17.82
+P00131,Nutrition Product 131,Nutrition,"Ferrell, Rice and Maddox",7.57
+P00132,Hygiene Product 132,Hygiene,Davis and Sons,7.92
+P00133,Vitamins Product 133,Vitamins & Supplements,Dudley Group,8.54
+P00134,Vitamins Product 134,Vitamins & Supplements,Harrell LLC,3.82
+P00135,Vitamins Product 135,Vitamins & Supplements,Galloway-Wyatt,12.2
+P00136,Medical Product 136,Medical Supplies,"Henderson, Ramirez and Lewis",4.53
+P00137,Maternal Product 137,Maternal & Baby,"Baker, Mason and White",7.6
+P00138,Medicines Product 138,Medicines,"Romero, Gonzalez and Brooks",1.28
+P00139,Vitamins Product 139,Vitamins & Supplements,Baker and Sons,3.7
+P00140,Personal Product 140,Personal Care,James Group,11.34
+P00141,Maternal Product 141,Maternal & Baby,Gray-Mayo,3.01
+P00142,Maternal Product 142,Maternal & Baby,James Group,9.65
+P00143,Medical Product 143,Medical Supplies,Garcia-James,4.92
+P00144,Diagnostics Product 144,Diagnostics,"Snyder, Campos and Callahan",16.32
+P00145,Personal Product 145,Personal Care,"Guzman, Hoffman and Baldwin",20.21
+P00146,Medicines Product 146,Medicines,"Snyder, Campos and Callahan",8.52
+P00147,Vitamins Product 147,Vitamins & Supplements,"Guzman, Hoffman and Baldwin",7.3
+P00148,Maternal Product 148,Maternal & Baby,"Ferrell, Rice and Maddox",7.63
+P00149,Diagnostics Product 149,Diagnostics,Garcia-James,7.26
+P00150,Personal Product 150,Personal Care,"Guzman, Hoffman and Baldwin",19.17
+P00151,Maternal Product 151,Maternal & Baby,Morales-Jones,54.81
+P00152,Diagnostics Product 152,Diagnostics,Blair PLC,2.54
+P00153,Nutrition Product 153,Nutrition,"Dyer, Potter and Mack",3.25
+P00154,Diagnostics Product 154,Diagnostics,"Romero, Gonzalez and Brooks",21.99
+P00155,Medicines Product 155,Medicines,Rodriguez-Graham,2.96
+P00156,Diagnostics Product 156,Diagnostics,Blake and Sons,2.47
+P00157,Hygiene Product 157,Hygiene,James Group,40.14
+P00158,Vitamins Product 158,Vitamins & Supplements,Blake and Sons,5.93
+P00159,Hygiene Product 159,Hygiene,"Flowers, Martin and Kelly",6.05
+P00160,Diagnostics Product 160,Diagnostics,Harrell LLC,4.92
+P00161,Maternal Product 161,Maternal & Baby,"Watts, Robinson and Nguyen",11.76
+P00162,Maternal Product 162,Maternal & Baby,James Group,2.98
+P00163,Nutrition Product 163,Nutrition,James Group,30.55
+P00164,Medicines Product 164,Medicines,"Gardner, Robinson and Lawrence",13.5
+P00165,Medical Product 165,Medical Supplies,"Flowers, Martin and Kelly",7.09
+P00166,Medicines Product 166,Medicines,"Rodriguez, Figueroa and Sanchez",4.75
+P00167,Personal Product 167,Personal Care,Garcia-James,8.06
+P00168,Diagnostics Product 168,Diagnostics,Blair PLC,17.03
+P00169,Nutrition Product 169,Nutrition,Rodriguez-Graham,59.98
+P00170,Medical Product 170,Medical Supplies,Rodriguez-Graham,24.71
+P00171,Medicines Product 171,Medicines,"Henderson, Ramirez and Lewis",16.62
+P00172,Vitamins Product 172,Vitamins & Supplements,Abbott-Munoz,7.65
+P00173,Medicines Product 173,Medicines,Morales-Jones,19.81
+P00174,Hygiene Product 174,Hygiene,"Hoffman, Baker and Richards",5.6
+P00175,Hygiene Product 175,Hygiene,"Mcclain, Miller and Henderson",9.64
+P00176,Diagnostics Product 176,Diagnostics,Morales-Jones,18.85
+P00177,Medicines Product 177,Medicines,Perez Inc,12.01
+P00178,Maternal Product 178,Maternal & Baby,Galloway-Wyatt,4.34
+P00179,Vitamins Product 179,Vitamins & Supplements,Perez Inc,2.17
+P00180,Medical Product 180,Medical Supplies,"Romero, Gonzalez and Brooks",11.04
+P00181,Hygiene Product 181,Hygiene,Galloway-Wyatt,8.23
+P00182,Hygiene Product 182,Hygiene,Dudley Group,15.55
+P00183,Medical Product 183,Medical Supplies,Doyle Ltd,7.74
+P00184,Hygiene Product 184,Hygiene,"Watts, Robinson and Nguyen",5.45
+P00185,Medical Product 185,Medical Supplies,Galloway-Wyatt,17.17
+P00186,Diagnostics Product 186,Diagnostics,Blair PLC,16.4
+P00187,Vitamins Product 187,Vitamins & Supplements,"Walter, Edwards and Rios",1.37
+P00188,Medicines Product 188,Medicines,Burton Ltd,2.19
+P00189,Maternal Product 189,Maternal & Baby,Arnold Ltd,8.2
+P00190,Nutrition Product 190,Nutrition,Perez Inc,7.01
+P00191,Diagnostics Product 191,Diagnostics,Williams and Sons,6.36
+P00192,Maternal Product 192,Maternal & Baby,Doyle Ltd,14.28
+P00193,Maternal Product 193,Maternal & Baby,Wilkerson-Day,37.05
+P00194,Personal Product 194,Personal Care,"Flowers, Martin and Kelly",3.24
+P00195,Vitamins Product 195,Vitamins & Supplements,"Flowers, Martin and Kelly",7.0
+P00196,Personal Product 196,Personal Care,"Ferrell, Rice and Maddox",7.24
+P00197,Medical Product 197,Medical Supplies,"Dyer, Potter and Mack",8.71
+P00198,Personal Product 198,Personal Care,Doyle Ltd,2.78
+P00199,Vitamins Product 199,Vitamins & Supplements,James Group,10.74
+P00200,Hygiene Product 200,Hygiene,"Baker, Mason and White",7.61

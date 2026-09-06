@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,gender,birthdate,age,country,signup_date
+C000001,Stuart,Daniel,M,1943-12-09,82,Nigeria,2022-01-14
+C000002,Tracey,Garcia,F,1953-11-24,72,Mexico,2020-05-31
+C000003,Matthew,Hensley,F,1994-01-01,32,India,2019-06-29
+C000004,James,West,F,2004-10-01,21,Mexico,2020-07-12
+C000005,Joshua,Wright,F,2009-07-08,17,Philippines,2023-07-15
+C000006,Scott,Callahan,M,1940-03-23,86,United Kingdom,2021-04-20
+C000007,Brent,Kidd,F,1959-04-25,67,South Africa,2023-01-05
+C000008,Tanya,House,F,1988-02-12,38,South Africa,2023-02-02
+C000009,Gabriel,Tucker,M,1945-12-15,80,Mexico,2019-04-14
+C000010,Richard,Brown,F,1988-02-18,38,Brazil,2020-04-09
+C000011,Tricia,Baker,M,1986-10-07,39,India,2022-09-14
+C000012,Spencer,Henderson,F,1969-05-03,57,Nigeria,2023-09-28
+C000013,Wendy,Peters,M,1988-05-15,38,South Africa,2022-04-23
+C000014,Eric,Phillips,F,1985-04-22,41,Brazil,2023-10-23
+C000015,Beth,Daniels,M,1949-10-21,76,Kenya,2022-06-27
+C000016,Brian,Silva,M,1971-03-15,55,United Kingdom,2021-01-06
+C000017,Melissa,Moore,F,2011-04-22,15,South Africa,2023-10-06
+C000018,Christopher,Lopez,M,1947-04-27,79,United States,2021-07-27
+C000019,Emma,Young,M,1991-05-03,35,Nigeria,2018-09-20
+C000020,Pamela,Sanchez,M,2012-12-11,13,Nigeria,2021-07-25
+C000021,Christine,Barnes,M,1990-11-15,35,Kenya,2021-07-02
+C000022,Alexandra,Donovan,F,1971-12-18,54,Mexico,2019-03-24
+C000023,Jennifer,Allen,F,2014-07-19,12,United Kingdom,2020-05-16
+C000024,Emily,Evans,F,1957-09-16,69,India,2019-11-24
+C000025,Karen,Jones,M,1954-03-21,72,Kenya,2020-09-30
+C000026,Yolanda,Ferrell,M,1994-10-03,31,United Kingdom,2018-06-10
+C000027,Jason,Baker,F,1999-09-09,27,Mexico,2023-08-06
+C000028,Nicole,Suarez,M,1941-11-24,84,India,2020-03-20
+C000029,Eric,Bass,M,2008-05-25,18,South Africa,2022-03-21
+C000030,Cheryl,Archer,F,1995-03-15,31,United States,2021-12-03
+C000031,Alan,Montoya,M,1973-09-25,52,Kenya,2019-10-18
+C000032,Elizabeth,Mcmillan,M,1953-11-10,72,Mexico,2018-10-22
+C000033,Darrell,Rodriguez,M,1959-06-25,67,Kenya,2021-04-26
+C000034,Joseph,Jacobs,M,2007-01-20,19,South Africa,2022-04-21
+C000035,James,Walters,F,1954-06-27,72,Brazil,2019-08-02
+C000036,Tracy,Whitehead,F,1970-10-03,55,India,2023-01-27
+C000037,Christopher,Henderson,M,1948-09-25,78,Kenya,2019-08-29
+C000038,Adam,Wise,F,2000-09-06,26,Brazil,2021-10-27
+C000039,Jose,Figueroa,M,1994-04-18,32,Nigeria,2021-04-23
+C000040,Ronald,Smith,M,1991-11-21,34,South Africa,2018-06-14
+C000041,Nicole,Mckee,F,2006-08-04,20,Nigeria,2021-04-09
+C000042,Mary,Aguilar,F,1983-01-19,43,Mexico,2018-11-21
+C000043,David,Parker,F,1968-01-03,58,United States,2023-05-23
+C000044,Laura,Valencia,F,1944-06-03,82,Mexico,2023-05-23
+C000045,Jason,Wright,F,2002-04-18,24,Kenya,2018-08-14
+C000046,Kimberly,Henson,M,2013-10-16,12,Nigeria,2020-06-08
+C000047,Christine,Moore,M,1992-04-04,34,India,2023-07-30
+C000048,Michelle,Cherry,M,1985-07-14,41,Philippines,2022-11-11
+C000049,Nicole,Johnson,M,1946-11-21,79,India,2022-06-02
+C000050,Martin,Galvan,F,1983-02-08,43,Nigeria,2022-10-23
+C000051,Michelle,Cochran,F,1997-03-14,29,Kenya,2019-08-08
+C000052,Kristin,Rodriguez,F,1971-02-15,55,Mexico,2023-03-26
+C000053,Michele,Walker,F,2009-01-03,17,Nigeria,2022-11-24
+C000054,Steven,Torres,F,2002-08-07,24,United Kingdom,2022-10-08
+C000055,Jeremy,Johnson,M,1961-07-01,65,United Kingdom,2019-02-27
+C000056,Mark,Lin,F,1998-05-14,28,Mexico,2023-10-19
+C000057,Joshua,May,M,2002-03-07,24,Brazil,2020-05-25
+C000058,Tina,Herrera,F,1947-10-24,78,Mexico,2023-08-19
+C000059,Darrell,Waller,F,1980-01-02,46,Indonesia,2019-01-27
+C000060,Sydney,Baker,F,2007-03-02,19,Mexico,2018-08-26
+C000061,Ryan,Chandler,F,1963-02-20,63,India,2019-11-18
+C000062,Catherine,Dixon,M,1970-07-04,56,Indonesia,2020-04-23
+C000063,Barbara,Scott,F,1945-10-03,80,United Kingdom,2022-04-02
+C000064,Aaron,Frost,M,2012-09-11,13,Brazil,2021-03-25
+C000065,Jennifer,Harmon,F,1980-04-09,46,United Kingdom,2022-01-08
+C000066,Michael,Jones,F,1978-08-11,48,India,2021-12-25
+C000067,Mark,Edwards,F,2012-02-03,14,Mexico,2023-02-01
+C000068,Jennifer,Evans,F,1973-03-12,53,India,2019-11-09
+C000069,Ricky,Powell,M,1987-05-06,39,Philippines,2019-10-10
+C000070,David,Fisher,M,1978-10-26,47,Mexico,2023-08-22
+C000071,Erica,Orr,F,2010-05-22,16,India,2021-09-09
+C000072,Kevin,Kelley,M,1957-05-04,69,India,2018-01-01
+C000073,Justin,Jordan,M,1959-05-10,67,Indonesia,2021-06-24
+C000074,Diana,Marshall,F,1983-04-22,43,Brazil,2020-08-26
+C000075,Jason,Kennedy,M,1972-01-03,54,United Kingdom,2023-05-28
+C000076,Laura,Jackson,M,1945-01-11,81,Kenya,2018-07-05
+C000077,Zachary,Schultz,M,1973-03-24,53,Philippines,2020-01-05
+C000078,Loretta,Potter,M,1994-09-01,32,India,2022-01-13
+C000079,Jeffrey,Gonzalez,F,1959-09-02,67,South Africa,2018-02-23
+C000080,John,Alvarez,M,1958-07-05,68,United States,2023-02-04
+C000081,Charles,Perry,F,1945-06-07,81,Nigeria,2021-10-11
+C000082,James,Horton,M,1985-09-28,40,United Kingdom,2020-12-18
+C000083,John,Douglas,M,1959-04-28,67,Kenya,2018-01-13
+C000084,Karen,Carrillo,M,1962-07-01,64,Kenya,2018-08-22
+C000085,Ronald,Thompson,M,1982-07-26,44,Nigeria,2023-09-29
+C000086,April,Williams,F,1953-07-28,73,United States,2019-06-30
+C000087,Melinda,Bryant,M,1968-04-27,58,Philippines,2022-10-22
+C000088,Elizabeth,Travis,F,1969-04-01,57,Nigeria,2021-07-28
+C000089,Stephanie,Vance,F,1975-02-25,51,Brazil,2021-09-03
+C000090,Jennifer,Wagner,F,2005-07-22,21,Mexico,2022-12-24
+C000091,Amy,Merritt,F,1943-02-09,83,Kenya,2022-06-17
+C000092,Thomas,Green,M,1973-01-04,53,Indonesia,2019-06-26
+C000093,Dana,Cannon,F,1980-07-20,46,Mexico,2021-02-15
+C000094,Courtney,Hill,F,2013-04-09,13,United States,2018-06-19
+C000095,Justin,Nelson,M,1940-09-26,86,Mexico,2019-12-02
+C000096,Amber,Taylor,M,1965-06-14,61,India,2019-05-22
+C000097,Heather,Mccarthy,M,1982-10-11,43,India,2018-05-21
+C000098,Rick,Daniels,M,1978-09-10,48,United Kingdom,2020-06-29
+C000099,Jamie,Fisher,F,1977-09-05,49,Nigeria,2023-06-05
+C000100,Brandy,Dominguez,F,1988-11-24,37,Kenya,2023-02-20
+C000101,Kathy,James,M,1978-07-18,48,United States,2018-01-13
+C000102,Michael,Molina,F,1966-07-26,60,Indonesia,2023-02-13
+C000103,Stephanie,Barnes,M,1981-08-15,45,Philippines,2022-06-26
+C000104,Amy,Morrison,M,2005-08-26,21,Kenya,2019-04-28
+C000105,Jeffrey,Graham,M,1976-09-22,49,Indonesia,2018-03-05
+C000106,Matthew,Shelton,F,1970-11-10,55,Nigeria,2020-06-04
+C000107,Frederick,Mcdonald,M,1958-01-02,68,Nigeria,2018-10-07
+C000108,Cindy,Johnson,Other,1949-08-14,77,Indonesia,2020-05-12
+C000109,Anne,Johnson,F,1989-08-13,37,Nigeria,2021-11-08
+C000110,Derek,Murray,F,1940-02-25,86,United Kingdom,2018-04-21
+C000111,Nicholas,Lewis,F,2006-08-02,20,Mexico,2019-12-17
+C000112,Kathleen,Gray,F,1955-08-05,71,Philippines,2022-07-05
+C000113,Marie,King,M,2011-10-11,14,Philippines,2018-06-29
+C000114,Andrew,Ryan,M,2004-07-27,22,Mexico,2023-12-30
+C000115,Michael,Santos,F,1960-12-28,65,Philippines,2022-09-07
+C000116,Denise,Webster,F,1971-11-09,54,Mexico,2023-09-11
+C000117,James,Smith,F,1970-05-15,56,India,2018-11-30
+C000118,David,Caldwell,M,1970-05-11,56,South Africa,2021-05-20
+C000119,Jeffery,Lyons,M,1950-03-05,76,Nigeria,2022-08-07
+C000120,Gary,Lawson,F,1959-12-07,66,India,2022-06-26
+C000121,Danny,Weiss,F,1982-09-15,44,United Kingdom,2023-10-14
+C000122,Daniel,Johnson,F,1993-07-25,33,Indonesia,2019-11-15
+C000123,Erica,Rubio,M,1942-10-13,83,Philippines,2020-05-18
+C000124,Jennifer,Jones,F,1985-05-25,41,United Kingdom,2022-02-21
+C000125,Courtney,Garcia,M,1993-09-24,32,Mexico,2022-08-19
+C000126,Melissa,Burke,M,1968-08-08,58,Brazil,2018-09-23
+C000127,Tonya,Patton,F,1943-07-11,83,United Kingdom,2020-01-31
+C000128,Ross,Wood,M,1999-03-20,27,Mexico,2021-01-13
+C000129,Matthew,Atkinson,F,1990-10-19,35,United States,2022-12-06
+C000130,Daniel,Yu,F,1994-03-28,32,Philippines,2021-10-23
+C000131,Maria,Zimmerman,F,1973-07-11,53,Nigeria,2020-08-11
+C000132,Jessica,Sheppard,F,1983-07-09,43,United Kingdom,2019-08-15
+C000133,Lindsey,Medina,F,1950-08-01,76,Mexico,2020-11-24
+C000134,Ryan,Simon,F,1984-04-21,42,India,2019-08-11
+C000135,Melissa,Rivas,M,1945-01-08,81,Nigeria,2018-07-09
+C000136,Nicole,Sanchez,M,1959-04-05,67,Philippines,2020-10-14
+C000137,Cheryl,Gray,M,2012-04-15,14,Brazil,2018-03-04
+C000138,Melissa,White,M,1961-10-20,64,India,2019-04-10
+C000139,Lauren,Peterson,M,1960-05-04,66,Indonesia,2023-04-12
+C000140,Jacqueline,Hill,F,1979-10-22,46,United Kingdom,2018-01-23
+C000141,Stacy,Miller,F,1965-02-19,61,Nigeria,2022-04-26
+C000142,Tracy,Chang,F,1978-11-20,47,India,2022-02-21
+C000143,Debbie,Henry,M,2012-01-12,14,Mexico,2022-10-03
+C000144,Christopher,Walker,F,1987-02-17,39,South Africa,2022-02-24
+C000145,Kevin,Perkins,F,1993-08-04,33,United Kingdom,2020-11-02
+C000146,Alyssa,Coleman,M,1998-12-05,27,United Kingdom,2022-06-22
+C000147,Mark,Warner,F,2006-11-09,19,Indonesia,2019-08-17
+C000148,John,Martinez,M,2008-08-15,18,United Kingdom,2019-02-26
+C000149,David,Herrera,M,2015-05-11,11,Nigeria,2022-07-28
+C000150,Jacob,Robinson,M,1951-05-15,75,Nigeria,2020-11-26
+C000151,Jenny,Bray,M,2012-10-22,13,United Kingdom,2021-02-22
+C000152,Justin,Garcia,F,2003-06-06,23,Philippines,2019-03-02
+C000153,Jeremy,White,F,1973-06-09,53,Indonesia,2018-01-31
+C000154,Amanda,Hill,M,1975-09-01,51,Mexico,2023-11-04
+C000155,Angela,Terry,M,1950-04-24,76,United Kingdom,2018-10-04
+C000156,Miranda,Henry,F,1970-12-16,55,Philippines,2023-03-27
+C000157,Audrey,Harrison,F,1942-02-10,84,Nigeria,2020-08-22
+C000158,Jack,Williams,F,1971-05-22,55,Indonesia,2023-08-23
+C000159,Tim,Short,F,2010-09-12,15,United Kingdom,2020-05-27
+C000160,Charles,Soto,Other,2010-06-12,16,Philippines,2018-04-28
+C000161,Edward,Hart,F,1972-04-04,54,Nigeria,2019-10-28
+C000162,Victoria,Wilson,F,2008-12-06,17,Nigeria,2022-08-02
+C000163,Catherine,Gibbs,F,2001-05-24,25,Indonesia,2019-05-10
+C000164,Alexandra,Hayes,M,2007-10-10,18,India,2020-08-27
+C000165,Michelle,Branch,M,1977-04-12,49,Kenya,2019-10-31
+C000166,Christine,Lynch,F,2008-03-09,18,United States,2022-06-09
+C000167,Stacey,Clark,M,2010-05-23,16,Kenya,2019-04-08
+C000168,Donna,Moore,M,2002-02-28,24,United States,2019-01-16
+C000169,Charles,Smith,M,2000-08-15,26,South Africa,2020-09-13
+C000170,Brittney,Carter,F,1946-05-28,80,Philippines,2019-05-22
+C000171,Jasmine,Warner,F,1948-07-16,78,India,2020-09-21
+C000172,Grace,Bradshaw,M,1946-03-05,80,Indonesia,2022-09-22
+C000173,Colleen,Guerrero,M,1950-04-04,76,Mexico,2023-08-07
+C000174,Ronald,Stephens,M,1968-09-13,58,Philippines,2021-11-19
+C000175,Rebekah,Serrano,M,1978-10-14,47,Brazil,2018-06-06
+C000176,Gabriel,Parker,M,1947-10-24,78,India,2022-06-29
+C000177,Ashley,Roberts,M,1966-11-07,59,Brazil,2018-09-30
+C000178,Haley,Lyons,M,1960-04-06,66,Mexico,2023-08-27
+C000179,Vincent,Snyder,F,1940-07-15,86,Indonesia,2018-06-26
+C000180,Bill,Reynolds,F,1944-04-10,82,Brazil,2019-12-07
+C000181,John,Davis,M,1998-02-22,28,Nigeria,2023-10-08
+C000182,Mary,Johnston,M,2015-11-26,10,Nigeria,2023-09-14
+C000183,Yvonne,Chambers,F,2009-04-21,17,Kenya,2019-08-14
+C000184,Billy,Avila,M,1958-02-02,68,Kenya,2020-10-27
+C000185,Denise,Moon,M,2012-05-15,14,India,2019-02-02
+C000186,Brenda,Walters,F,1978-12-13,47,Brazil,2020-12-12
+C000187,Christopher,Bailey,M,2003-08-03,23,Indonesia,2019-12-31
+C000188,Elizabeth,Hodge,F,1995-12-11,30,Indonesia,2019-12-24
+C000189,Heather,Roberts,F,1951-04-22,75,Indonesia,2023-09-01
+C000190,Lisa,Pierce,M,1942-11-27,83,Brazil,2020-09-23
+C000191,Leonard,Morris,M,1962-08-17,64,Philippines,2023-10-26
+C000192,Richard,Robertson,M,1963-10-14,62,Philippines,2023-12-04
+C000193,Diane,Daniels,M,2000-06-14,26,South Africa,2020-06-24
+C000194,Jacob,Cox,F,1953-03-11,73,United Kingdom,2022-07-15
+C000195,Colleen,Wolf,M,1976-11-13,49,Mexico,2019-03-22
+C000196,Andrea,Pennington,F,1951-06-09,75,South Africa,2020-08-17
+C000197,Helen,Martinez,F,1991-09-27,34,United States,2023-11-02
+C000198,Chelsea,Allen,M,2009-08-14,17,United States,2018-12-13
+C000199,Andrea,Tran,F,1986-10-25,39,Philippines,2018-07-24
+C000200,Victoria,Durham,M,1946-04-09,80,Mexico,2020-10-07
+C000201,David,Collier,F,1976-08-23,50,Philippines,2020-12-27
+C000202,Jennifer,Hicks,F,1970-12-06,55,Brazil,2019-08-22
+C000203,Mary,Baird,M,2010-07-03,16,Nigeria,2019-06-18
+C000204,Andrea,Reyes,Other,1954-08-04,72,Kenya,2023-07-12
+C000205,William,Suarez,M,1977-09-23,48,Brazil,2023-03-08
+C000206,Joshua,Tyler,F,2001-08-08,25,Philippines,2020-06-27
+C000207,Sarah,Romero,M,1989-04-20,37,Mexico,2022-12-03
+C000208,Justin,Evans,M,1957-02-09,69,United Kingdom,2021-07-09
+C000209,Yolanda,Burns,F,2004-05-27,22,United States,2018-11-22
+C000210,Amanda,Reed,F,1978-10-19,47,Philippines,2021-04-23
+C000211,Amy,Gibson,M,1997-09-16,28,South Africa,2019-12-06
+C000212,Jacob,Terry,F,2009-07-15,17,South Africa,2021-06-06
+C000213,Jesus,Rowe,M,1970-10-13,55,Nigeria,2018-04-06
+C000214,Julie,Thornton,M,1992-01-11,34,Philippines,2022-11-12
+C000215,Paul,Alvarado,M,1988-07-22,38,Kenya,2022-12-03
+C000216,Tina,Simpson,M,1944-03-17,82,Indonesia,2018-03-23
+C000217,Wayne,Lawrence,F,1952-08-04,74,Mexico,2023-03-20
+C000218,Morgan,Alexander,M,1941-12-05,84,United Kingdom,2021-02-25
+C000219,Stephen,Bowen,M,1959-02-16,67,Brazil,2020-06-16
+C000220,Diana,Moore,F,1990-11-03,35,South Africa,2020-10-25
+C000221,Tanya,Morgan,M,2008-07-11,18,Philippines,2022-02-26
+C000222,Debra,Christian,M,1944-10-03,81,Nigeria,2023-02-10
+C000223,Michele,James,M,1976-04-24,50,India,2019-11-25
+C000224,Jennifer,Malone,F,1952-11-23,73,India,2023-03-26
+C000225,Barry,Jones,F,1978-01-02,48,South Africa,2021-10-14
+C000226,Samantha,Bright,M,1977-06-12,49,United Kingdom,2022-06-24
+C000227,Ryan,Garcia,F,2007-07-19,19,Kenya,2021-10-19
+C000228,Monique,Wallace,F,1950-10-28,75,United Kingdom,2022-02-28
+C000229,Rebecca,Williams,M,1970-08-19,56,Kenya,2022-10-10
+C000230,Kelly,Brooks,F,1972-08-09,54,United States,2018-11-15
+C000231,Amanda,Knight,M,1999-05-22,27,Mexico,2022-10-02
+C000232,George,Miller,F,1996-06-19,30,Brazil,2023-03-23
+C000233,Christine,Allen,M,1994-12-09,31,Philippines,2023-06-23
+C000234,Douglas,Murray,M,1965-07-28,61,Philippines,2019-07-11
+C000235,Jonathan,Smith,F,1988-10-12,37,Indonesia,2022-10-29
+C000236,Rachel,Byrd,F,1977-01-27,49,United Kingdom,2018-12-12
+C000237,Scott,Reed,F,2012-11-25,13,United States,2021-07-10
+C000238,Danielle,Coleman,M,2003-05-25,23,Nigeria,2019-07-02
+C000239,Megan,Gonzalez,M,1985-04-21,41,Nigeria,2020-04-22
+C000240,Timothy,Young,M,1957-11-04,68,United States,2021-06-06
+C000241,Bailey,Haney,F,1996-01-19,30,South Africa,2019-10-09
+C000242,Tiffany,Barrett,M,1951-05-11,75,United Kingdom,2019-08-25
+C000243,Ashlee,Jennings,F,1956-09-12,70,Mexico,2022-06-19
+C000244,Brandon,Obrien,M,1974-03-09,52,Philippines,2020-12-23
+C000245,Rebecca,Mitchell,M,1977-12-28,48,South Africa,2022-10-16
+C000246,Catherine,Gomez,M,1999-02-05,27,Nigeria,2021-10-26
+C000247,Christine,Byrd,M,1990-09-12,36,India,2022-04-28
+C000248,Donna,Massey,M,1941-05-18,85,India,2021-10-07
+C000249,Rebecca,Lucas,F,1973-10-13,52,South Africa,2019-11-08
+C000250,Scott,Riley,F,1969-08-01,57,Indonesia,2022-05-23
+C000251,Christopher,Phillips,M,2011-06-20,15,Nigeria,2022-06-25
+C000252,Gregory,Anderson,M,1999-12-10,26,United Kingdom,2021-03-27
+C000253,Teresa,Schmidt,F,1945-01-10,81,Philippines,2023-06-24
+C000254,Maria,Scott,F,1970-09-05,56,United Kingdom,2022-12-12
+C000255,Timothy,Drake,F,2009-07-19,17,Kenya,2022-06-23
+C000256,Matthew,Wilson,M,1952-08-20,74,United Kingdom,2023-10-10
+C000257,Donald,Levy,M,1975-01-23,51,South Africa,2023-02-27
+C000258,Jennifer,Whitney,F,1996-04-28,30,South Africa,2023-10-20
+C000259,Linda,Diaz,F,1987-09-21,38,South Africa,2022-09-28
+C000260,Alexander,Herrera,F,1975-04-04,51,Philippines,2020-09-22
+C000261,Emily,Chambers,F,1967-11-21,58,Indonesia,2021-07-04
+C000262,Lynn,Bentley,M,1946-06-08,80,Kenya,2018-08-26
+C000263,Jesus,Johnson,M,1966-02-27,60,Mexico,2023-04-21
+C000264,Anna,Herman,F,1967-04-11,59,Kenya,2019-04-30
+C000265,Bryan,Colon,M,1940-05-28,86,Kenya,2023-06-15
+C000266,Kevin,Ortiz,Other,2009-05-26,17,Kenya,2018-11-03
+C000267,Sophia,Torres,F,1943-03-01,83,South Africa,2020-12-14
+C000268,Colton,Clay,M,1970-10-11,55,United States,2018-10-25
+C000269,Shawn,Santiago,F,1946-03-24,80,United Kingdom,2022-06-16
+C000270,Sonya,Barnes,M,1948-08-15,78,South Africa,2022-06-14
+C000271,Eric,Perry,M,1953-08-17,73,Nigeria,2018-08-05
+C000272,Tracy,Russell,M,1945-12-26,80,Mexico,2023-09-15
+C000273,Antonio,Wood,F,1943-01-16,83,United Kingdom,2020-08-29
+C000274,Stephanie,Foley,F,1953-08-23,73,Philippines,2018-08-06
+C000275,Gina,Stephens,F,1950-06-20,76,Kenya,2023-11-12
+C000276,Michael,Sanders,F,1975-10-21,50,Indonesia,2019-02-20
+C000277,David,Charles,M,1981-07-20,45,Mexico,2020-09-22
+C000278,Elizabeth,May,F,2004-10-14,21,India,2021-07-31
+C000279,Andrew,Buchanan,M,1954-11-21,71,Mexico,2019-06-18
+C000280,David,Cunningham,M,1967-07-15,59,Nigeria,2018-05-31
+C000281,Kathy,Clark,F,1998-07-14,28,India,2019-04-18
+C000282,Molly,Murphy,F,1980-11-09,45,South Africa,2018-11-20
+C000283,Rachel,Smith,M,2000-02-03,26,India,2023-02-23
+C000284,Duane,Anderson,F,1952-12-24,73,South Africa,2019-07-03
+C000285,Greg,Guerrero,M,2011-01-19,15,Mexico,2018-02-26
+C000286,Alexis,Tyler,M,1955-07-12,71,United Kingdom,2019-06-06
+C000287,Mario,Thompson,M,1946-05-20,80,Brazil,2018-04-25
+C000288,Judy,Fox,F,2013-09-07,13,Kenya,2022-06-22
+C000289,Thomas,Strickland,M,1968-02-12,58,Mexico,2021-01-28
+C000290,Daniel,Gordon,F,1975-10-08,50,United Kingdom,2023-09-02
+C000291,Bradley,Logan,M,2011-01-20,15,Brazil,2023-03-14
+C000292,Adrienne,Ellis,F,1974-12-25,51,Brazil,2023-10-13
+C000293,Bruce,Mendoza,M,1984-01-06,42,Kenya,2020-05-29
+C000294,Gina,Henry,M,1991-02-05,35,United States,2023-06-16
+C000295,Charles,Miller,F,2007-04-13,19,United Kingdom,2021-08-25
+C000296,Cameron,Hill,F,1960-06-10,66,South Africa,2021-10-18
+C000297,Amy,Nguyen,M,2012-10-03,13,United States,2023-12-19
+C000298,Alyssa,Chavez,F,1946-11-03,79,Brazil,2021-08-18
+C000299,Cory,Miles,F,1994-08-20,32,Philippines,2023-02-11
+C000300,Debra,Mack,F,1967-09-04,59,South Africa,2022-04-28
+C000301,Jason,Hayes,F,1976-11-22,49,Indonesia,2019-05-16
+C000302,Matthew,Chavez,F,1979-01-08,47,United Kingdom,2020-06-30
+C000303,Cody,Simmons,Other,1947-01-07,79,Brazil,2021-12-27
+C000304,Nicholas,Hernandez,M,1957-05-10,69,South Africa,2023-07-15
+C000305,Carlos,Decker,F,2003-12-14,22,Kenya,2018-07-24
+C000306,Colin,Rodgers,F,2008-12-08,17,Mexico,2022-11-13
+C000307,Angela,Willis,M,1985-02-13,41,United States,2021-05-14
+C000308,Mark,Martinez,F,1998-02-28,28,South Africa,2020-02-14
+C000309,Elizabeth,Christensen,M,2013-07-23,13,United Kingdom,2023-03-17
+C000310,Jennifer,Schmitt,F,1991-01-11,35,Kenya,2021-08-07
+C000311,Michael,Lane,M,1998-12-12,27,India,2019-04-11
+C000312,Diane,Walker,F,1953-04-14,73,Indonesia,2018-08-25
+C000313,Megan,Richardson,F,1950-07-28,76,Brazil,2022-07-29
+C000314,Audrey,Aguirre,M,1968-06-25,58,Kenya,2023-01-25
+C000315,Terri,Cardenas,F,1954-09-17,72,Nigeria,2021-09-05
+C000316,Dawn,Johnson,M,1984-06-24,42,Kenya,2023-07-28
+C000317,Maria,Adams,F,1958-05-07,68,Kenya,2019-01-31
+C000318,Jacqueline,Parker,M,1949-03-25,77,Philippines,2020-01-15
+C000319,Adam,Kane,F,2012-10-15,13,Indonesia,2021-05-25
+C000320,Richard,Thomas,M,1981-11-11,44,Kenya,2021-10-18
+C000321,Anthony,Reese,F,2000-08-21,26,Brazil,2019-04-17
+C000322,Robert,Peterson,M,2015-01-12,11,Mexico,2020-03-21
+C000323,Jennifer,Frank,F,1999-08-02,27,United States,2021-05-28
+C000324,Christopher,Williams,F,1976-02-21,50,India,2018-12-11
+C000325,Christine,Craig,M,2004-07-15,22,Indonesia,2019-08-19
+C000326,Ebony,Tucker,M,1945-08-26,81,Indonesia,2020-08-26
+C000327,Joshua,Fischer,M,1981-10-16,44,Mexico,2018-09-07
+C000328,Russell,Campbell,F,1947-08-04,79,South Africa,2022-01-25
+C000329,Tommy,Estrada,Other,1950-09-21,76,Kenya,2018-04-10
+C000330,Randall,Greene,F,1996-08-17,30,Mexico,2018-01-17
+C000331,Kevin,Clark,M,1986-06-10,40,United Kingdom,2018-10-28
+C000332,Jonathan,Murphy,F,1983-11-20,42,United States,2018-01-17
+C000333,Julie,Thompson,M,1982-02-11,44,India,2020-04-12
+C000334,Jane,Mason,M,1989-05-09,37,Indonesia,2022-12-31
+C000335,Linda,Jones,M,1982-02-19,44,Kenya,2023-03-03
+C000336,Bobby,Smith,M,1979-11-23,46,United Kingdom,2023-07-11
+C000337,Michelle,Johnston,F,1950-05-18,76,United Kingdom,2021-06-09
+C000338,Jenna,Butler,M,1982-03-22,44,Mexico,2018-09-10
+C000339,Andrew,Nguyen,F,1994-09-12,32,United States,2022-10-21
+C000340,Christine,Collier,F,1963-04-11,63,Philippines,2023-07-08
+C000341,Christopher,Richard,F,1957-03-03,69,Brazil,2019-06-17
+C000342,Brianna,Warren,M,1952-09-25,73,Mexico,2020-05-16
+C000343,Kyle,Morgan,M,2007-01-22,19,South Africa,2019-12-31
+C000344,Gary,Dixon,M,1956-10-13,69,Kenya,2018-09-07
+C000345,William,Bullock,F,1961-12-15,64,United States,2020-02-05
+C000346,Jessica,Fuentes,F,1970-08-20,56,Brazil,2022-11-20
+C000347,Joel,Thomas,M,1997-04-18,29,Nigeria,2019-03-09
+C000348,Carrie,Wolf,F,2000-04-12,26,Indonesia,2021-12-06
+C000349,Gregory,Mejia,Other,1999-05-25,27,United Kingdom,2020-12-18
+C000350,Karen,Wolf,M,1993-03-27,33,Nigeria,2020-09-10
+C000351,Sandra,Cunningham,M,1957-05-02,69,Philippines,2021-10-23
+C000352,Claudia,Lin,M,2010-02-23,16,Mexico,2021-10-05
+C000353,Edward,Jones,M,1976-02-25,50,Kenya,2020-08-26
+C000354,Kevin,Hill,F,2005-03-27,21,United Kingdom,2018-05-04
+C000355,William,Collins,F,1968-08-12,58,United States,2020-09-16
+C000356,Brian,Decker,F,1990-09-12,36,Nigeria,2018-06-18
+C000357,Michelle,Wyatt,F,1950-06-08,76,United States,2021-09-08
+C000358,William,Ford,F,1952-12-21,73,South Africa,2021-04-28
+C000359,Latoya,Huang,M,1957-01-10,69,Philippines,2020-09-11
+C000360,Lisa,Pearson,M,1957-12-16,68,Philippines,2019-12-06
+C000361,Thomas,Hernandez,M,1950-01-09,76,Nigeria,2018-05-16
+C000362,Dale,Nolan,M,2010-12-20,15,Mexico,2020-01-23
+C000363,Jennifer,Wagner,F,1976-04-10,50,India,2019-01-13
+C000364,John,Kim,F,1993-11-26,32,Indonesia,2020-08-20
+C000365,Alexandra,Moore,F,1954-08-20,72,Mexico,2020-03-27
+C000366,Justin,Ortiz,F,2005-10-08,20,Kenya,2020-01-12
+C000367,Carla,Mccormick,F,1940-10-12,85,Nigeria,2021-11-18
+C000368,Cameron,Davis,M,1963-11-22,62,India,2022-01-25
+C000369,Justin,Cummings,M,1986-02-17,40,Mexico,2021-12-08
+C000370,Rebecca,Marks,M,2004-09-01,22,United Kingdom,2020-01-01
+C000371,Brandi,Thomas,M,1945-11-13,80,South Africa,2020-02-06
+C000372,Tammy,Hale,F,1942-06-26,84,India,2020-05-08
+C000373,Brooke,Hurley,F,1953-10-24,72,South Africa,2019-11-09
+C000374,Nicholas,Conner,F,1985-09-11,41,Kenya,2022-11-16
+C000375,Elizabeth,Calderon,M,1999-12-16,26,Kenya,2022-06-06
+C000376,Gina,Fox,M,1948-12-25,77,Philippines,2021-11-15
+C000377,Rodney,Cox,F,1965-01-26,61,Nigeria,2020-03-05
+C000378,Henry,Lewis,M,1980-05-17,46,United Kingdom,2023-09-07
+C000379,Tom,Perez,Other,2009-08-09,17,United States,2018-10-29
+C000380,Chris,Richard,M,1964-05-12,62,United States,2018-08-10
+C000381,Kelli,Conley,M,1982-05-04,44,South Africa,2023-04-20
+C000382,Benjamin,Rogers,F,1991-12-15,34,United Kingdom,2022-08-06
+C000383,David,Bennett,F,1963-08-23,63,Philippines,2018-12-22
+C000384,Marie,Wise,F,2006-05-26,20,India,2022-11-07
+C000385,Gabriel,Kim,M,1950-07-20,76,Kenya,2020-06-18
+C000386,Erica,Young,M,1981-02-03,45,South Africa,2020-08-30
+C000387,Justin,Goodman,M,1979-08-20,47,United Kingdom,2020-09-10
+C000388,Amanda,Collins,F,1996-06-15,30,United States,2022-11-06
+C000389,Taylor,Conley,M,1985-10-14,40,Brazil,2020-03-16
+C000390,Stacey,Joyce,M,1947-02-22,79,United Kingdom,2020-10-08
+C000391,Juan,Reyes,F,1960-01-05,66,Indonesia,2021-03-01
+C000392,Tammy,Montoya,M,1996-01-05,30,India,2022-10-21
+C000393,Devon,Wright,F,1986-06-13,40,Indonesia,2021-11-05
+C000394,Morgan,Spencer,F,1959-11-15,66,South Africa,2018-08-13
+C000395,Meghan,Rosales,F,1949-10-05,76,Mexico,2019-09-17
+C000396,Kathryn,Nelson,F,1980-11-09,45,Nigeria,2023-06-06
+C000397,Dylan,Kim,M,1943-12-06,82,Philippines,2023-09-04
+C000398,Jeffrey,Hayes,M,2011-02-09,15,Brazil,2020-02-05
+C000399,Anthony,Brown,M,1967-10-10,58,Philippines,2021-01-04
+C000400,Joe,Vang,F,1957-02-15,69,Kenya,2020-04-01
+C000401,Anthony,Galvan,M,1996-02-26,30,South Africa,2023-01-12
+C000402,Debra,Moody,M,1948-09-18,78,Brazil,2018-10-29
+C000403,Justin,Gallegos,M,1960-12-23,65,Kenya,2022-03-05
+C000404,Dominic,Thornton,M,2005-04-04,21,Nigeria,2020-09-09
+C000405,Adam,Miller,M,1970-08-01,56,South Africa,2019-07-15
+C000406,Mary,Dunn,M,1987-08-26,39,Mexico,2022-05-12
+C000407,Allison,Rodriguez,F,1951-02-10,75,United Kingdom,2019-09-23
+C000408,Kevin,Williams,Other,2001-09-14,24,United Kingdom,2020-07-08
+C000409,Laura,Bryant,M,1949-03-11,77,India,2018-08-31
+C000410,Rebecca,Carlson,F,2006-06-05,20,Mexico,2018-02-05
+C000411,Zachary,Allen,M,1963-03-14,63,Mexico,2018-11-11
+C000412,Ruben,Mendez,M,1947-02-17,79,Kenya,2019-06-11
+C000413,Robert,Beck,F,1960-06-23,66,Nigeria,2018-07-07
+C000414,Theresa,Jones,F,2006-05-28,20,India,2021-02-26
+C000415,William,Mcneil,F,2010-05-05,16,Brazil,2021-04-28
+C000416,Peter,Harrison,M,1951-09-21,75,Kenya,2021-10-24
+C000417,Tina,King,M,2014-03-06,12,Indonesia,2018-02-05
+C000418,Kristina,Cooper,M,1983-10-02,42,United States,2022-05-25
+C000419,Courtney,Ingram,F,2013-05-21,13,Nigeria,2022-05-30
+C000420,Marvin,Williams,M,1993-10-21,32,United States,2021-04-10
+C000421,Lisa,Thompson,M,2009-05-21,17,Brazil,2022-09-03
+C000422,Steven,Dominguez,F,1991-05-15,35,India,2021-10-15
+C000423,Lisa,Brown,M,1960-08-14,66,Philippines,2022-08-27
+C000424,Stephen,Carter,F,1983-10-05,42,South Africa,2018-04-06
+C000425,James,Williams,M,1980-12-28,45,South Africa,2023-08-07
+C000426,Zachary,Hays,M,1956-06-17,70,Mexico,2021-04-04
+C000427,Jon,Mullins,F,1970-08-04,56,Brazil,2019-02-23
+C000428,Michael,Norman,F,1958-02-02,68,Brazil,2023-03-12
+C000429,Martin,Martinez,M,1993-04-28,33,Kenya,2020-03-16
+C000430,Pamela,Paul,M,2013-12-11,12,Nigeria,2023-05-14
+C000431,Paul,Beltran,M,2003-09-15,22,Philippines,2020-12-22
+C000432,Tyler,Glass,M,2003-01-03,23,United Kingdom,2021-02-11
+C000433,Laurie,Acosta,M,1970-04-19,56,South Africa,2018-06-22
+C000434,Carrie,Short,F,1976-08-20,50,Philippines,2021-04-09
+C000435,Manuel,Miller,F,1941-02-14,85,Kenya,2021-12-18
+C000436,Kirk,Morrison,M,1986-07-12,40,United States,2020-07-22
+C000437,Hannah,Bell,F,2012-09-07,14,South Africa,2018-04-03
+C000438,Molly,Gomez,M,1949-07-17,77,Philippines,2023-12-26
+C000439,Joshua,Whitney,M,1975-10-22,50,Indonesia,2023-09-07
+C000440,Charles,Walsh,F,1952-07-12,74,South Africa,2020-03-06
+C000441,Laurie,Shelton,M,1986-03-07,40,Indonesia,2023-09-18
+C000442,Douglas,Lawson,M,2004-01-02,22,United States,2022-09-08
+C000443,Austin,Jones,F,1982-08-17,44,Philippines,2022-09-01
+C000444,Michael,Reyes,F,2005-03-11,21,Indonesia,2021-05-27
+C000445,Cassie,Shelton,F,1990-10-24,35,Brazil,2023-09-09
+C000446,Nathan,Hines,M,2004-09-18,21,Philippines,2021-06-10
+C000447,Alyssa,Sanders,M,1978-08-27,48,United States,2021-11-23
+C000448,John,Wilson,F,1954-07-19,72,Brazil,2022-05-31
+C000449,Victor,Hughes,M,1943-10-16,82,Brazil,2021-05-15
+C000450,Jose,Green,M,2014-10-08,11,United States,2020-09-04
+C000451,Wendy,Mitchell,M,1961-09-21,65,Indonesia,2023-07-01
+C000452,Travis,Martinez,M,1988-03-27,38,Nigeria,2023-02-11
+C000453,Shannon,Roach,F,1954-04-01,72,Philippines,2020-09-01
+C000454,Christopher,Fleming,F,1959-07-23,67,Nigeria,2023-01-26
+C000455,Luis,Reed,F,2000-12-24,25,United States,2018-05-23
+C000456,Amber,Vance,M,2006-04-18,20,South Africa,2023-02-08
+C000457,Jennifer,Ho,Other,2001-09-13,24,South Africa,2021-10-28
+C000458,Laura,Hicks,M,1998-09-11,28,Mexico,2018-09-23
+C000459,James,Taylor,F,1973-10-16,52,Nigeria,2022-09-27
+C000460,Anthony,Spencer,M,1975-09-10,51,Nigeria,2020-03-18
+C000461,Linda,Arnold,M,1978-05-23,48,Nigeria,2021-09-02
+C000462,Christopher,Parker,M,2002-06-16,24,South Africa,2023-12-30
+C000463,Jennifer,Fox,M,1975-05-04,51,Indonesia,2022-08-12
+C000464,Madeline,Jones,M,1988-07-27,38,South Africa,2023-10-31
+C000465,Dawn,Cole,M,1958-05-02,68,Brazil,2022-01-29
+C000466,Melvin,Humphrey,M,1950-06-15,76,Brazil,2022-09-05
+C000467,Danielle,White,M,1967-04-27,59,Mexico,2023-10-18
+C000468,Ryan,Bartlett,F,2011-12-09,14,Kenya,2018-05-02
+C000469,David,Hernandez,F,2015-04-08,11,United States,2018-12-27
+C000470,Marcus,Fletcher,M,2007-04-21,19,Nigeria,2020-01-28
+C000471,Shelley,Jacobson,F,1992-06-23,34,Philippines,2023-01-27
+C000472,John,Reid,F,1957-01-18,69,Kenya,2021-04-21
+C000473,David,Turner,F,2000-08-21,26,Nigeria,2021-03-14
+C000474,Wayne,Jackson,M,1976-06-10,50,United States,2023-08-25
+C000475,Eric,Hopkins,M,1951-11-19,74,Nigeria,2022-04-28
+C000476,Cassie,Kirby,M,1944-03-14,82,Kenya,2021-05-19
+C000477,Marcia,Johnson,M,1944-07-26,82,Philippines,2018-04-10
+C000478,Darlene,Ray,F,1977-01-01,49,Brazil,2021-11-26
+C000479,Katie,Butler,M,1953-06-10,73,Philippines,2021-10-31
+C000480,Tyler,Burton,Other,2009-09-16,16,Kenya,2019-09-27
+C000481,Sue,Webb,M,1999-05-07,27,India,2022-10-29
+C000482,Gail,Evans,F,1998-11-09,27,Kenya,2018-06-09
+C000483,Brian,Gonzales,F,1983-05-19,43,Nigeria,2020-11-26
+C000484,James,Lawson,F,1991-07-17,35,South Africa,2019-11-16
+C000485,Jennifer,Gross,F,1952-03-05,74,Philippines,2023-03-01
+C000486,Theresa,Anderson,F,1971-01-09,55,United Kingdom,2020-03-22
+C000487,Anna,Flores,F,1974-06-10,52,Indonesia,2020-10-18
+C000488,Joseph,Wright,M,1941-05-21,85,South Africa,2018-08-01
+C000489,Kelly,Cruz,M,1947-11-04,78,Philippines,2021-09-09
+C000490,John,Grimes,F,1991-11-17,34,Brazil,2018-12-16
+C000491,Mark,Lane,M,1977-06-20,49,Nigeria,2019-11-16
+C000492,Kathryn,Jimenez,F,1957-08-05,69,Philippines,2021-02-01
+C000493,Victor,Parker,M,1987-07-23,39,Mexico,2018-02-20
+C000494,Sierra,Wagner,M,2008-11-27,17,Nigeria,2023-10-19
+C000495,Jason,Gomez,M,1950-09-15,76,Mexico,2018-04-21
+C000496,Troy,Khan,M,1949-10-04,76,United States,2021-12-03
+C000497,Thomas,Herrera,M,2004-04-19,22,Mexico,2023-01-30
+C000498,Ryan,Khan,F,1981-09-15,45,India,2022-05-13
+C000499,Kathryn,Diaz,M,2014-08-03,12,Mexico,2020-05-27
+C000500,Ashley,Lee,F,1947-08-05,79,Mexico,2021-04-26
